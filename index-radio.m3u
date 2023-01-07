@@ -1,4 +1,4 @@
-#EXTINF:0,Radio Rasika
+#EXTINF:0,Radio RasikaFM
 https://svara-stream.radioddns.net:8443/rasikasemarang_stereo
 #EXTINF:0,Radio IDOLA
 http://server-by.antoners.com:8020/idolafm
@@ -6,3 +6,8 @@ http://server-by.antoners.com:8020/idolafm
 http://server-by.antoners.com:8020/alqudwah
 #EXTINF:0,Radio TOPFM Cilegon
 http://server-by.antoners.com:8020/cilegon
+#EXTINF:0,Radio Bandung COSMOFM
+https://svara-stream.radioddns.net:8443/bandung_cosmo_aac
+#EXTINF:0,Radio Bandung DahliaFM
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+
