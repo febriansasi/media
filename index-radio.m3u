@@ -6,8 +6,42 @@ http://server-by.antoners.com:8020/idolafm
 http://server-by.antoners.com:8020/alqudwah
 #EXTINF:0,Radio TOPFM Cilegon
 http://server-by.antoners.com:8020/cilegon
+#EXTINF:0,Radio HitsFM
+http://server-by.antoners.com:8020/hitsfm
+#EXTINF:0,Radio Linggamas
+http://server-by.antoners.com:8020/linggamas
+#EXTINF:0,Radio MADUFM
+http://server-by.antoners.com:8020/madufm
+#EXTINF:0,Radio MercuriusFM
+http://server-by.antoners.com:8020/mercurius
+#EXTINF:0,Radio MixRADIOFM
+http://server-by.antoners.com:8020/mixradio
+#EXTINF:0,Radio PBSFM
+http://server-by.antoners.com:8020/pbsfm
+#EXTINF:0,Radio PrimadonaFM
+http://server-by.antoners.com:8020/primadona
+#EXTINF:0,Radio ProalmaFM
+http://server-by.antoners.com:8020/proalma
+#EXTINF:0,Radio RSKWFM
+http://server-by.antoners.com:8020/rskw
+#EXTINF:0,Radio SLENKFM
+http://server-by.antoners.com:8020/slenk
+#EXTINF:0,Radio SUDIPFM
+http://server-by.antoners.com:8020/sudip
+#EXTINF:0,Radio TOPFM Semarang
+http://server-by.antoners.com:8020/topfm
 #EXTINF:0,Radio Bandung COSMOFM
 https://svara-stream.radioddns.net:8443/bandung_cosmo_aac
 #EXTINF:0,Radio Bandung DahliaFM
 https://svara-stream.radioddns.net:8443/bandung_dahliafm
+#EXTINF:0,Radio ZFM
+https://svara-stream.radioddns.net:8443/001
+#EXTINF:0,Radio Bandung DahliaFM
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+#EXTINF:0,Radio Smooth
+https://svara-stream.radioddns.net:8443/002
+#EXTINF:0,Radio VOKS Bali
+https://svara-stream.radioddns.net:8443/Bali_voksradio_102fm
+#EXTINF:0,Radio DJATI FM
+https://svara-stream.radioddns.net:8443/bandaaceh_djatifm_mp3
 
